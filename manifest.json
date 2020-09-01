@@ -1,6 +1,6 @@
 {
   "name": "Habboon Automatic Flash Acceptance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically allows Flash player to run, rather than ask for permission each time.",
   "permissions": [
     "contentSettings"
